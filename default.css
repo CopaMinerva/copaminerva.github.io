@@ -5,7 +5,7 @@ html, body {
 body {
 	margin: 0px;
 	padding: 0px;
-	background: #16a085;
+	background: #787878;
 	font-family: 'Raleway', sans-serif;
 	font-size: 11pt;
 	font-weight: 400;
@@ -186,7 +186,7 @@ hr {
 	{
 		font-weight: 400;
 		font-size: 2em;
-		color: #16a085;
+		color: #787878;
 	}
 	
 	.title .byline
@@ -282,8 +282,8 @@ hr {
 	#banner 
 	{
 		overflow: hidden;
-		height: 500px;
-		background: url(images/pic01.jpg) no-repeat center;
+		height: 800px;
+		background: url(images/rsz_3background_big.jpg) no-repeat center;
 		background-size: cover;
 	}
 	
@@ -296,7 +296,7 @@ hr {
 
 #menu-wrapper
 {
-	background: #16a085;
+	background: #787878;
 }
 
 #menu {
@@ -334,7 +334,7 @@ hr {
 }
 
 #menu .current_page_item a {
-	background: #1abc9c;
+	background: #787878;
 }
 
 /** PAGE */
@@ -382,7 +382,7 @@ hr {
 	#copyright
 	{
 		overflow: hidden;
-		padding: 5em 0em;
+		padding: 0em 0em;
 		text-align: center;
 	}
 	
@@ -398,7 +398,7 @@ hr {
 	#copyright a
 	{
 		text-decoration: none;
-		color: rgba(255,255,255,.7);
+		color: rgba(255,255,255,1);
 	}
 
 /*********************************************************************************/
@@ -498,7 +498,7 @@ hr {
 		display: inline-block;
 		margin-top: 1.5em;
 		padding: 1.50em 3em 1.50em 3em;
-		background: #16a085;
+		background: #787878;
 		text-decoration: none;
 		text-transform: uppercase;
 		font-weight: 400;
