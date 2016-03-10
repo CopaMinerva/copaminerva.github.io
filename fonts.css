@@ -63,6 +63,9 @@
 			-o-font-feature-settings: "liga" 1, "dlig" 1;
 			font-feature-settings: "liga" 1, "dlig" 1;
 		}
+		/** Meus ícones */
+		.icon-twitch:before                { content: "\f1e8"; }
+
 
 		.icon-glass:before                { content: "\f000"; }
 		.icon-music:before                { content: "\f001"; }
