@@ -265,6 +265,7 @@ a:hover {
 	line-height: 40px;
 	border: none;
 	color: #FFF;
+	white-space: nowrap
 }
 
 /**
